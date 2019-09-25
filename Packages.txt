@@ -1,0 +1,12 @@
+Package: com.modded.shadow_2.0.8_iphoneos-arm
+Version: 2.0.8
+Architecture: iphoneos-arm
+Maintainer: Gazra
+Filename: debs//com.modded.shadow_2.0.8_iphoneos-arm.deb
+Size: bytes
+Section: Tweaks
+Description: A lightweight general jailbreak detection bypass. (works on 12.4)
+MD5sum: nvk3njjnv
+Author: yourname <yourname@gmail.com>
+Depiction: https://username.github.io/depic/com.modded.shadow_2.0.8_iphoneos-arm/index.html
+Name: Shadow (Modded)
